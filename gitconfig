@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anguslaird72@gmail.com
+	name = Angus Laird
